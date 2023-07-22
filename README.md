@@ -18,8 +18,9 @@
 查看chrom的版本，在[chrom驱动的官方网站](https://sites.google.com/chromium.org/driver/)中下载安装适配的版本（版本接近即可），并将其配置到系统环境下，具体步骤可见博客（https://blog.csdn.net/qq_51413628/article/details/130394558?spm=1001.2014.3001.5501）
 
 2、使用bat文件或添加后缀的方式用驱动打开chrome，打开claude网站。
+![image-20230722210926312](https://github.com/1051727403/claude-vits-tts/assets/70049475/8bbeebf8-3632-4896-85be-67665a86b1f4)
 
-![image-20230722210926312](C:\Users\lv\AppData\Roaming\Typora\typora-user-images\image-20230722210926312.png)
+
 
 3、打开项目中的chat.py文件并运行，出现如下弹窗，同时控制台出现打开claude网站的网站名即为成功。
 

@@ -24,7 +24,7 @@
 
 3、打开项目中的chat.py文件并运行，出现如下弹窗，同时控制台出现打开claude网站的网站名即为成功。
 
-![image-20230722213458356](C:\Users\lv\AppData\Roaming\Typora\typora-user-images\image-20230722213458356.png)
+![image-20230722213458356](https://github.com/1051727403/claude-vits-tts/assets/70049475/43a7b792-4dae-498f-a202-0f0f8bac0595)
 
 4、第一次输入需要在右下角输入框中输入并发送作为启动，后续对话则可以直接在claude中打字。
 
